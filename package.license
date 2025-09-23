@@ -1,0 +1,6 @@
+sys-kernel/linux-firmware linux-fw-redistributable
+sys-firmware/intel-microcode intel-ucode
+x11-drivers/nvidia-drivers NVIDIA-2023 NVIDIA-2025
+media-fonts/nerd-fonts Vic-Fieger-License
+www-client/chromium unRAR
+media-video/ffmpeg all-rights-reserved

@@ -1,0 +1,6 @@
+# created by eselect-repo
+
+[gentoozh]
+location = /var/db/repos/gentoozh
+sync-type = git
+sync-uri = https://github.com/microcai/gentoo-zh
