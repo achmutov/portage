@@ -23,3 +23,10 @@ media-video/ffmpeg chromium opus x264 x265 fdk lame xvid
 
 media-gfx/graphviz python
 >=media-libs/gd-2.3.3-r4 fontconfig truetype
+
+>=sys-fs/e2fsprogs-1.47.3 fuse
+
+media-libs/libsixel curl jpeg png
+media-libs/vips jpeg png webp
+media-gfx/ueberzugpp opengl
+media-gfx/chafa webp

@@ -1,3 +1,5 @@
 media-fonts/nerd-fonts::gentoo-zh ~amd64
 media-libs/mesa **
 dev-util/mesa_clc ~amd64
+dev-util/rustup ~amd64
+sys-fs/jmtpfs ~amd64
