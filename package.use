@@ -28,5 +28,12 @@ media-gfx/graphviz python
 
 media-libs/libsixel curl jpeg png
 media-libs/vips jpeg png webp
+>=media-libs/freetype-2.14.1-r1 harfbuzz
 media-gfx/ueberzugpp opengl
 media-gfx/chafa webp
+
+app-text/zathura synctex
+>=media-libs/harfbuzz-12.1.0 icu
+>=app-text/poppler-25.11.0 cairo
+
+>=net-libs/libwebsockets-4.4.1-r1 libuv

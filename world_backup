@@ -1,3 +1,4 @@
+app-admin/stow
 app-admin/sudo
 app-antivirus/clamav
 app-containers/apptainer
@@ -5,12 +6,17 @@ app-editors/neovim
 app-editors/vim
 app-eselect/eselect-repository
 app-misc/fastfetch
+app-misc/jq
 app-misc/tmux
 app-portage/gentoolkit
 app-shells/fzf
 app-shells/starship
 app-shells/zsh
+app-shells/zsh-completions
+app-text/zathura
+app-text/zathura-pdf-poppler
 dev-debug/gdb
+dev-debug/valgrind
 dev-lua/luarocks
 dev-util/ccache
 dev-util/rustup
@@ -21,6 +27,7 @@ media-fonts/fontawesome
 media-fonts/nerd-fonts
 media-fonts/noto
 media-fonts/noto-cjk
+media-gfx/chafa
 media-gfx/eog
 media-gfx/graphviz
 media-gfx/scrot
@@ -33,7 +40,6 @@ media-video/mpv
 media-video/pipewire
 media-video/wireplumber
 net-analyzer/trippy
-net-libs/nodejs
 net-misc/chrony
 net-misc/dhcpcd
 net-misc/networkmanager
@@ -51,6 +57,7 @@ sys-kernel/linux-firmware
 sys-libs/ncurses
 sys-power/acpi
 sys-process/btop
+www-apps/ttyd
 x11-apps/mesa-progs
 x11-apps/setxkbmap
 x11-apps/xbacklight
@@ -63,4 +70,5 @@ x11-drivers/xf86-video-intel
 x11-misc/dmenu
 x11-misc/polybar
 x11-misc/xclip
+x11-misc/xsecurelock
 x11-wm/awesome
