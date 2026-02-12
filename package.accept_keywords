@@ -3,3 +3,5 @@ media-libs/mesa **
 dev-util/mesa_clc ~amd64
 dev-util/rustup ~amd64
 sys-fs/jmtpfs ~amd64
+x11-misc/xsecurelock::guru ~amd64
+app-shells/direnv::guru ~amd64
