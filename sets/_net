@@ -1,0 +1,8 @@
+net-wireless/iw
+net-wireless/wpa_supplicant
+net-misc/networkmanager
+net-misc/chrony
+net-analyzer/nmap
+net-analyzer/mtr
+net-dns/bind
+net-analyzer/wireshark

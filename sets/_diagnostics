@@ -1,0 +1,5 @@
+media-video/libva-utils
+sys-apps/lshw
+sys-apps/nvme-cli
+sys-process/btop
+x11-apps/mesa-progs

@@ -1,0 +1,3 @@
+sys-kernel/gentoo-kernel-bin
+sys-kernel/installkernel
+sys-boot/grub

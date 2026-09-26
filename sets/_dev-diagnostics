@@ -1,0 +1,4 @@
+dev-debug/gdb
+dev-debug/valgrind
+dev-util/perf
+llvm-core/lldb
